@@ -1,0 +1,16 @@
+Logbook:
+
+13/05/20 	- Noticed C. hutchinsonii may not be predatory.
+		- Changed "Respiration" to "Oxygen Tolerance".
+		- Changed "Predation" to "Predation Strategy".
+		- Unsure if Lysobacter antibioticus is Aerobic or Facultative.
+
+14/05/20 	- Noticed that Streptomyces avermilitis is a potential opportunistic predator.
+		- SUGGESTION: Instead of "Wolf-Pack", perhaps "Opportunistic"?
+		- If we need to expand wolfpack/opportunistic selection we may want to include more spp from:
+			- Streptomyces
+			- Lysobacter
+			- Myxococcus
+		
+
+

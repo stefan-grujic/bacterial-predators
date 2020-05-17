@@ -1,0 +1,9 @@
+Logbook:
+
+15/05/20	- SUGGESTION: Change Periplasmic to Endobiotic.
+
+16/05/20	- Using terminology from Perez et al. until further notice.
+		- Unable to find evidence of specific Cystobacteraceae species which is a predator.
+		- Unable to find evidence of specific Cytophaga spp. being predatory.
+			- Cytophaga hutchinsonii clustered with predators in the previous study notably.
+			- Many references to Cytophaga spp. being predatory, never a specific species mentioned.
