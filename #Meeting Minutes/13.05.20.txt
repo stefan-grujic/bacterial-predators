@@ -1,0 +1,26 @@
+General Imporovements:
+	- Machine Learning Techniques
+	- Statistical Analysis on Lineage Effect.
+	- Improved organism curation.
+	- Focus more on comparison to Jurkevic et al.
+
+Oxygen Tolerance:
+	- Aerotollerant -> Anaerobic
+	- Microaerophillic -> Aerobic
+	- Facultative -> Seperate Group
+
+Predation Strategy:
+	- Non-Predator
+	- Wolf-Pack
+	- Epibiotic
+	- Periplasmic
+
+To Do:
+	- Curate existing list.
+	- Add 100 organisms to list.
+		- Send to Danesh and Jan.
+	- Ticket Simon Hartley for access to Microbial Genomics Project CASTLES account.
+	- Email Arun and Yuhan about co-authorship.
+		- Mention significant improvement and new directions.
+	- Create a Github Repository.
+	
