@@ -1,0 +1,28 @@
+Command line extraction possible, but will not save time in this situation.
+
+
+Analysis 1:
+
+	1. Create tree.
+		- Newick format.
+		- FastTree.
+
+	2. Binarise Traits.
+		- Onehotencoding.
+
+	3. Create table compatible with Scoary.
+		- Needs to emulate Roary output.
+
+Analysis 2:
+
+	1. Binary classification with Regularised Logistic Regression.
+		- XGBoost.
+	
+	2. Run SHAP.
+		- Importance Analysis at individual level.
+		- Interpretable Machine Learning.
+
+
+Compare results with a randomised table.
+
+Ape or Phangorn can be used to trim trees.
