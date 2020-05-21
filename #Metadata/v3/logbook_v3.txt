@@ -1,0 +1,7 @@
+Logbook:
+
+20/05/20	- Noticed Flavobacterium johnsoniae is duplicated.
+		- Recalled that Jurkevic et al., 2013 uses Archaea.
+		- Removed Peredibacter sp. as assembly is not a complete chromosome.
+		- Recalled that Jurkevic et al., 2014 mentions that the biggest difference between epibiotic and endobiotic predators was genome size.
+			- Should we store genome size as a factor?
