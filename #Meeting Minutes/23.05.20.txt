@@ -1,0 +1,9 @@
+Download Artemis.
+
+Write script to find 16S ribosomal RNA coordinates in gff files.
+
+Extract gene from FASTA file.
+
+Check it worked using BLAST.
+
+Use MSA Package in R to create a multiple sequence alignment.
