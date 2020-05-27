@@ -1,0 +1,29 @@
+Perform COG enrichment analysis on COGs with Worst_pairwaise_comp_p <= 0.05
+	- Same methodology with bar plots as module 6.
+	- Perform sensitivity analysis by subsampling from the dataset can comparing results to full set.
+		- Can be randomlt sampled or proportionately.
+	- Calculate Jaccard distance.
+	- Use FigTree to visualise metadata.
+
+SKLearn for Logistic Regression model.
+	- Bayesian hyperparameter tuning using Skopt.
+	- Use ROC to find best model.
+
+XGboost to make boosted tree model.
+	- Compare results with logistic regression model.
+
+Repeat ML analysis using randomised data and compare results.
+
+Identify the number of genes which arent associated with COG identifiers.
+
+	- We will potentially predict these using Tax4Fun.
+
+Save all figures in a powerpoint as I go along, we will discuss which we should use.
+
+Write paper in following order:
+
+	Results > Methods > Discussion > Introduction > Abstract
+
+Next meeting 03/06/20 @ 11:00 unless I finish sooner.
+
+
